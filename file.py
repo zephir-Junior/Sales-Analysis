@@ -4,4 +4,5 @@ ls = []
 for l in range(10):
     ls.append(l)
 print (ls)
+print(ls[7])
 
