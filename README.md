@@ -10,14 +10,13 @@ This repository contains a comprehensive analysis of sales data using Microsoft 
 
 In this project, we utilize MS Excel Tool to Analyse The Sample Superstore Dataset released with Tableau v2022.1. This project aimed at answering the following questions:
 
-### 1- How to use descriptive statistics methods to assess the sales performance across various segments, markets, product categories and subcategories?
-### 2- How to use diagnostic analytics methods to understand the statistical significance of the factors that influence sales?
-### 3- How to use predictive analytics (regression) to understand the strengths of the relationship between sales and sales drivers and generate a regression formula to predict sales?
-### 4- How to develop a sales forecasting model based on the insights?
- 
-- # Steps to setup and run the Jupyter Notebooks
-  
-  ## About Dataset
+#### 1- How to use descriptive statistics methods to assess the sales performance across various segments, markets, product categories and subcategories?
+#### 2- How to use diagnostic analytics methods to understand the statistical significance of the factors that influence sales?
+#### 3- How to use predictive analytics (regression) to understand the strengths of the relationship between sales and sales drivers and generate a regression formula to predict sales?
+#### 4- How to develop a sales forecasting model based on the insights?
+
+
+## About Dataset
 
 The Orders database contains information on the following variables.
 • Continuous variables: Row ID, Order ID, Order Date, Ship Date, Customer ID, Product ID, Sales, Quantity, Discount, Profit, Sales, Quantity, Shipping Cost, Discount, Profit
